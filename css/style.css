@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar{
+    background-color: #229954 ;
+}
+
+.quem-somos{
+    background-color: #7FB3D5;
+    color:white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #76D7C4;
+}
